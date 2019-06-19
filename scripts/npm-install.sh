@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /var/api
-yarn install
+/root/.nvm/versions/node/v10.16.0/bin/yarn install
